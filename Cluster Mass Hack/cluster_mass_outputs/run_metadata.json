@@ -1,0 +1,7 @@
+{
+  "n_folds": 10,
+  "epochs": 50,
+  "batch_size": 16,
+  "fold_seed": 42,
+  "notes": "Cluster-level folds; no_rotation and with_rotation use identical folds."
+}
