@@ -1,0 +1,6 @@
+{
+  "approach": 2,
+  "n_folds": 10,
+  "fold_seed": 42,
+  "normalization_offset": 13.573857307434082
+}

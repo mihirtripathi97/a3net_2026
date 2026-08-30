@@ -1,0 +1,14 @@
+{
+  "approach": 3,
+  "n_folds": 10,
+  "fold_seed": 42,
+  "fold_assignment": "mass-ranked round-robin at cluster level",
+  "augmentation": "deduplicated D4 transformations",
+  "normalization_offset": 13.573857307434082,
+  "max_epochs": 200,
+  "convergence_criteria": {
+    "max_abs_residual": 0.3,
+    "max_abs_median_residual": 0.02,
+    "min_slope_true_predicted": 0.9
+  }
+}

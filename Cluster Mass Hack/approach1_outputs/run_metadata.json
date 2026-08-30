@@ -1,0 +1,13 @@
+{
+  "approach": 1,
+  "description": "Original fixed train/validation/test split and training-only loss",
+  "epoch_options": [
+    10,
+    50,
+    100,
+    150
+  ],
+  "batch_size": 32,
+  "comparison": "single 150-epoch trajectory with checkpoints",
+  "device": "CPU:0 for reproducibility with original recorded run"
+}
